@@ -5,8 +5,7 @@ const { MongoClient } = require("mongodb");
 const app = express();
 klsjfkls
 getComputedStyle.apply(_)
-dl,';
-'d;s''
+
 
 app.use(bodyParser.json());
 
